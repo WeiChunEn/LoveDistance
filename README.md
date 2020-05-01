@@ -1,4 +1,5 @@
 # LoveDistance-Game
+ビデオリンク：https://drive.google.com/open?id=1Nq-V-D6e6BU60a4mqN8CeAV4SWUQA7ad <br>
 這是一個關於兩對情侶為了獲得愛神的祝福互相競爭的遊戲<br>
 總共四名玩家分成兩組
 誰先跳到最上面的平台並支撐到愛情能量條集滿就勝利<br>
