@@ -17,7 +17,7 @@ II.遊玩方式:此遊戲需要4個人進行遊玩，分成2對2來互相競爭�
 場上會有道具即機關影響玩家們，玩家身上的線象徵著愛情的痕跡，離得太遠會被拉進靠得太近又會彈開，代表愛情的矛盾。<br>
 
 
-#### ビデオリンク：https://drive.google.com/open?id=1SKgq3Ux4Vn3GW8K3yA0LdrLQMkcrcYHd <br>
+#### ビデオリンク(Video link)：https://drive.google.com/open?id=1SKgq3Ux4Vn3GW8K3yA0LdrLQMkcrcYHd <br>
 ### 下記図面をご参考ください
 ![Alt text](https://i.imgur.com/QDf0DJN.jpg "Start Menu")
 ![Alt text](https://i.imgur.com/FiM3eOT.jpg "Help Menu")
